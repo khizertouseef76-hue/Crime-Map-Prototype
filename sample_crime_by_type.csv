@@ -1,0 +1,10 @@
+crime_type,incidents,population,rate
+violent_crime,120,45000,266.7
+property_crime,680,45000,1511.1
+burglary,140,45000,311.1
+larceny_theft,420,45000,933.3
+motor_vehicle_theft,120,45000,266.7
+aggravated_assault,85,45000,188.9
+robbery,28,45000,62.2
+rape,7,45000,15.6
+homicide,2,45000,4.4
